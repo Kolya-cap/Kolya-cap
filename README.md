@@ -23,6 +23,6 @@ Hi, my name is Nikolai, I am a junior specialist. I'm currently studying to be a
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [x] Upgrade my Github profile
-* [ ] Take a Git course on Slurm
+* [x] Take a Git course on Slurm
 * [ ] Create my first project on Github       
 <!-- TODO-IST:END -->
